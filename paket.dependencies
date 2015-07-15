@@ -1,0 +1,4 @@
+source https://nuget.org/api/v2
+
+nuget FSharp.Compiler.Tools ~> 3.1.2.2
+nuget WebSharper ~> 3.1
