@@ -86,8 +86,7 @@ module Site =
             Skin.WithTemplate Action.About "About" <| fun ctx ->
                 [
                     H1 [Text "About"]
-                    P [Text "This is a template WebSharper client-server application
-                             that you can easily deploy to Azure from source control."]
+                    P [Text "This is a template WebSharper client-server application that you can easily deploy to Azure from source control."]
                 ]
 
     let Main =
