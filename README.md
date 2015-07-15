@@ -2,7 +2,7 @@
 A template for deploying a WebSharper client-server application to Azure from source control. It uses
 [paket](http://fsprojects.github.io/Paket/index.html) and `FSharp.Compiler.Tools` to build and deploy your app on Azure.
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/?repository=https://github.com/intellifactory/ClientServer.Azure)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/?repository=https://github.com/webdev19030/TestAzure)
 
 # Steps
 
